@@ -13,7 +13,8 @@ This repo focuses on providing .NET 6 microservice template with boilerplate set
 * Fluent Validations
 
 ## Roadmap
-- Add Fluent Validation examples
-- Add CRUD operation
-- Add DB integration example
-- Add API provider integration example
+- Implement **use-case** to implement demo.
+- Add Fluent Validation examples.
+- Add CRUD operation.
+- Add DB integration example.
+- Add API provider integration example.
